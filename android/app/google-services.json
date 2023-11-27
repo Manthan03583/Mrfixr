@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392072009960",
+    "project_id": "mr-fixr",
+    "storage_bucket": "mr-fixr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392072009960:android:ab3f60c77ac9e82fb5515d",
+        "android_client_info": {
+          "package_name": "com.sixamtech.demandium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392072009960-1acv59d2m70htg6jf0acm7vufjgnbch9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q4Jbhx0BoOen9Ob3RnAHksQJ1y6HfiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392072009960-1acv59d2m70htg6jf0acm7vufjgnbch9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
